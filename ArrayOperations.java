@@ -9,7 +9,7 @@ public class ArrayOperations
 }
 public class Operations
 {
-	void TraverseArray(array)
+	void TraverseArray(int[] array)
 	{
 		for(int i=0;i<array.length;i++)
 		{
