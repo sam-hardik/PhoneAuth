@@ -7,3 +7,13 @@ public class ArrayOperations
 	
 	
 }
+public class Operations
+{
+	void TraverseArray(array)
+	{
+		for(int i=0;i<array.length;i++)
+		{
+			System.out.println("Elements at Position "+i+1+" is "+array[i]);
+		}
+	}
+}
